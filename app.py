@@ -488,7 +488,7 @@ Foam Gutter Guards
 
 5.2. Address Any Issues
 
-- If any issues arise (e.g., stubborn stains that couldn't be removed, window damage), discuss them with the client. If damage occurred, fill out the Damage Incident Waiver, and inform the client that a manager will be in touch to discuss further action."
+- If any issues arise (e.g., stubborn stains that couldn't be removed, window damage), discuss them with the client. If damage occurred, fill out the Damage Incident Waiver, and inform the client that a manager will be in touch to discuss further action."""
 
 5.3. Request Feedback
 
