@@ -431,7 +431,7 @@ Foam Gutter Guards
 - Greet the client courteously, confirming the scope of work and any specific instructions: "Hello, my name is [Dale] and this is [Craig]. We are the (window/gutter) cleaners from KW Outdoor Solutions."
 - After greeting the client, confirm the scope of work that they would like done: "I see on our work order we are here to clean the (e.g., outside windows only/gutters). Is that correct?"
 - Upon confirming work, have one employee start taking off screens, unloading equipment, getting out gutter cleaning hoses, etc.
-- During this time, have the other employee explain to the client the process as follows, e.g., "[Dale] will start working on the back of the home, while [Craig] works on the front. After the outside windows are cleaned, we will clean the screens and put them back into the windows. Then, we will double-check that the windows are closed and locked.""""
+- During this time, have the other employee explain to the client the process as follows, e.g., "[Dale] will start working on the back of the home, while [Craig] works on the front. After the outside windows are cleaned, we will clean the screens and put them back into the windows. Then, we will double-check that the windows are closed and locked."
     },
     # Page 20: Employee Action Plan (Part 2)
     {
