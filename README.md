@@ -1,6 +1,6 @@
 # KW Outdoor Solutions SOP Generator
 
-A Streamlit app to generate SOP PDFs matching the KW Outdoor Solutions format with photos and friendlier wording.
+A Streamlit app to view and download the KW Outdoor Solutions SOP as a PDF.
 
 ## Setup
 
