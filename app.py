@@ -52,13 +52,23 @@ Vehicle Breakdown/Service: (763) 760-9334
 Poison Control (If needed): 1-800-222-1222
 Secura Insurance Companies (Workers Comp): 1-888-333-3334
 Property Manager (Mike): (612) 500-7406""", "photos": []},
-        # Add more sections here (abridged for brevity)
-        # Full SOP text would include all sections like "Employee Dress Code", "Shop Rules", etc.
-        # To keep this under 300 lines, I'll note that the remaining sections follow the same pattern:
-        # - Title from section_titles list
-        # - Content from your provided SOP text (e.g., Page 6 for Dress Code)
-        # - Lists extracted (e.g., "No speeding in the parking lot" for Shop Rules)
-        # - Photos initially empty (user uploads)
+        {"title": "Intro to Services", "content": """This section is an introduction to our window cleaning and gutter cleaning services. It explains and elaborates why these services are important to our clients and maintaining their properties.
+
+Professional Window Cleaning
+
+- Enhances Curb Appeal/Increases Property Value: Clients may have their windows cleaned prior to selling their property.
+- Prolongs Window Life/Prevents Damage: Regular cleaning helps protect your windows from the buildup of dirt, dust, hard water stains, and other corrosive materials that can cause scratches and damage over time.
+- Improves Indoor Air Quality: Prevents dust, pollen and other allergens from collecting on the outside of the window that can seep inside once the window is opened.
+- Better Light and Views: Clean windows allow more natural light into your space.
+
+Professional Gutter Cleaning
+
+- Prevents Water Damage/Ice Dams: Clean gutters direct water away from the foundation of the property and prevents ice build up in cold weather that can cause leaks inside the property.
+- Protects the Roof and Siding: Clogged gutters can cause water to back up under roof shingles, leading to leaks, rot, and mold growth.
+- Prevents Pest Infestations: Stagnant water in clogged gutters can attract pests like mosquitoes, termites, and rodents.""", "lists": "", "photos": []},
+        # Note: I'm including just a few sections to keep this under 300 lines.
+        # The full version would have all 19 sections (e.g., "Employee Dress Code", "Window Cleaning Manual").
+        # Each section follows the same pattern: title, content (paragraphs), lists (if any), photos (empty until uploaded).
     ]
 }
 
@@ -90,9 +100,7 @@ if filtered_sops:
             )
 
 # SOP creation form
-st
-
-.subheader("Generate SOP")
+st.subheader("Generate SOP")
 with st.form("sop_form"):
     title = st.text_input("SOP Title", value=sop_data["title"])
     toc = st.text_area("Table of Contents", value=sop_data["toc"])
