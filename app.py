@@ -406,7 +406,7 @@ Foam Gutter Guards
 - Great for heavy rainfall
 - Very hard to clean and requires use of hose"""
     },
-        # Page 19: Employee Action Plan (Part 1)
+            # Page 19: Employee Action Plan (Part 1)
     {
         "title": "Employee Action Plan",
         "content": """Objective: To provide a clear, step-by-step guide for employees to follow once they arrive at a job site to ensure safety, efficiency, and customer satisfaction during the window cleaning process.
